@@ -1,0 +1,3 @@
+mp4ansi==0.4.0
+mplogp==0.1.0
+python-gitlab==2.10.1
